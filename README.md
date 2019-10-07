@@ -11,8 +11,8 @@ an arduino leonardo and
 
 Add the ArduinoJoystickLibrary to your arduino-ide and flash the sketch.
 
-![Alt text](Joypad.jpg?raw=true "Optional Title")
+![Joypad](Joypad.jpg?raw=true "Joypad")
 
-![Alt text](Joypad inside.jpg?raw=true "Optional Title")
+![Joypad inside](Joypad_inside.jpg?raw=true "Joypad inside")
 
 Happy gaming!
